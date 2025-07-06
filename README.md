@@ -1,4 +1,4 @@
-# ARP-scan-Lilka
+# ARP сканер Kiera OS (Lilka)
 
 ![image](https://github.com/user-attachments/assets/8560f725-88eb-46fe-b86a-76cb97b34d35)
 
@@ -11,7 +11,7 @@
 
 Інтерфейс побудований за допомогою UI-фреймворку lilka::Menu.
 
-
+# ARP Scanner for Kiera OS (Lilka)
 
 A simple utility for scanning the local network using ARP.
 Currently, it supports scanning only within a /24 subnet. The results are displayed in the format IP address – MAC address.
