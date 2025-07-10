@@ -19,3 +19,5 @@ The interface is built using the lilka::Menu UI framework.
 ![image](https://github.com/user-attachments/assets/8560f725-88eb-46fe-b86a-76cb97b34d35)
 
 ![image](https://github.com/user-attachments/assets/55840d99-d0fd-4cb6-9709-25bf4c27c92b)
+
+## Changelog
